@@ -1,7 +1,7 @@
 plugins {
     id 'java'
     id 'application'
-    id 'org.openjfx.javafxplugin' version '0.0.7'
+    id 'org.openjfx.javafxplugin' version '0.0.9'
 }
 
 group 'org.raphaelluethy'
@@ -21,8 +21,8 @@ test {
 }
 
 javafx {
+    version = '15.0.1'
     modules= ['javafx.controls', 'javafx.fxml']
-    version = '11.0.2'
 }
 
 mainClassName = 'com.raphaelluethy.Main'
