@@ -4,7 +4,7 @@ plugins {
     id 'org.openjfx.javafxplugin' version '0.0.9'
 }
 
-group 'org.raphaelluethy'
+group 'ch.raphaelluethy'
 version '1.0-SNAPSHOT'
 
 repositories {
@@ -25,4 +25,4 @@ javafx {
     modules= ['javafx.controls', 'javafx.fxml']
 }
 
-mainClassName = 'com.raphaelluethy.Main'
+mainClassName = 'ch.raphaelluethy.Main'
