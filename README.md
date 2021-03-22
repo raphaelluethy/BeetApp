@@ -1,4 +1,4 @@
 # BeetApp
 
 ## Sinn?
-Manage a garden lol ¯\_(ツ)_/¯
+Manage a garden lol ¯\\_(ツ)_/¯
